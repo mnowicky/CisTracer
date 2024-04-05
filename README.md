@@ -1,14 +1,6 @@
 # CisTracer
 # You provide a mac, ip, or list of mac/ips as input and the ip and port of correct switch and host-connected switchport is returned/written.
 
----------------------------------------------------------------------------------------------------------- 
- Author: Matt Nowicky
- Date: 4/1/2024
- Program: findMac.py
- Purpose: Using a mac address (or .csv list of mac addresses) as input, starting
- from any  switch on the LAN, determine the local switch IP and port that MAC is connected to. 
----------------------------------------------------------------------------------------------------------
-
 
 Files: 
 findMac.py - main program, run this python module to use the program. Loads all dependencies and kicks off the trace. 
